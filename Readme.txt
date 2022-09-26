@@ -1,0 +1,1 @@
+Essa é uma atividade o qual é feito o site "Adote Aqui" no intuito de criar um rodapé para incluir o "iFrame do google maps"
